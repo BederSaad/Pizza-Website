@@ -14,6 +14,6 @@ Welcome to the **Pizza Website**, a visually appealing static website for a pizz
 - **JavaScript**: Adding interactivity and dynamic elements.
 
 ## Live Demo
-Visit the live demo of this project: [Live Pizza Website]()
+Visit the live demo of this project: [Live Pizza Website](https://bedersaad.github.io/Pizza-Website/)
 
 Enjoy your pizza cravings! 🍕
